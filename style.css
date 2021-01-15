@@ -1,0 +1,151 @@
+html{
+    color: #343138;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    display: flex;
+    padding-inline: 270px;
+    padding-top: 0px;
+    background-color: #f6f3c3;
+}
+
+h1{
+    font-family: 'Lucida Handwriting';
+    font-size: 100px;
+}
+
+.menu{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    font-family: 'Century';
+}
+
+.div-index{
+    background-color: #cabba6;
+    padding-inline: 71px;
+}
+.div-frida{
+    background-color: #e5a199;
+    padding-inline: 72px;
+}
+.div-vangogh{
+    background-color: #fedfc6;
+    padding-inline: 72px;
+}
+.div-picasso{
+    background-color: #e2b79a;
+    padding-inline: 72px;
+}
+
+.painter-image{
+    border-radius: 50%;
+    width: 150px;
+    padding-top: 10px;
+}
+
+.painter-info{
+    display: flex;
+    padding: 15px 50px 10px 50px;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Lucida Handwriting';
+}
+
+h3{
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Lucida Handwriting';
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Handwriting';
+}
+
+p{
+    font-family: 'Century';
+    padding-inline: 10px;
+    text-align: justify;
+}
+
+.painter-pictures{
+    display: flex;
+    padding: 0px 20px 10px 10px;
+}
+
+.frida-picture1{
+    width: 200px;
+    padding-inline: 220px;
+}
+
+.frida-picture2{
+    width: 260px;
+    padding-inline: 150px;
+}
+
+.vangogh-picture1{
+    width: 270px;
+    padding-inline: 220px;
+}
+
+.vangogh-picture2{
+    width: 320px;
+    padding-inline: 150px;
+}
+
+.picasso-picture1{
+    width: 280px;
+    padding-inline: 220px;
+}
+
+.picasso-picture2{
+    width: 120px;
+    padding-inline: 220px;
+}
+
+.background-footer{
+    background-color: #f6f3c3;
+}
+
+.miguelangel-picture{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.definition{
+    padding: 15px 15px;
+}
+
+.clasification{
+    display: flex;
+    padding: 5px 20px;
+}
+
+.div-generos{
+    background-color: #e2b79a;
+    padding-inline: 139px;
+}
+.div-tecnicas{
+    background-color: #fedfc6;
+    padding-inline: 130px;
+}
+.div-materiales{
+    background-color: #cabba6;
+    padding-inline: 139px;
+}
