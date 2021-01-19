@@ -19,6 +19,29 @@ h1{
     font-size: 100px;
 }
 
+h2{
+    /*text-align: center;*/
+    font-size: 35px;
+    font-family: 'Lucida Handwriting';
+}
+
+h3{
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Lucida Handwriting';
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Handwriting';
+}
+
+p{
+    font-family: 'Century';
+    padding-inline: 10px;
+}
+
 .menu{
     display: flex;
 }
@@ -56,30 +79,6 @@ a{
 .painter-info{
     display: flex;
     padding: 15px 50px 10px 50px;
-}
-
-h2{
-    text-align: center;
-    font-size: 35px;
-    font-family: 'Lucida Handwriting';
-}
-
-h3{
-    text-align: left;
-    font-size: 30px;
-    font-family: 'Lucida Handwriting';
-}
-
-h4{
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Lucida Handwriting';
-}
-
-p{
-    font-family: 'Century';
-    padding-inline: 10px;
-    /*text-align: justify;*/
 }
 
 .painter-pictures{
