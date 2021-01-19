@@ -79,7 +79,7 @@ h4{
 p{
     font-family: 'Century';
     padding-inline: 10px;
-    text-align: justify;
+    /*text-align: justify;*/
 }
 
 .painter-pictures{
