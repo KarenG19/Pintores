@@ -7,6 +7,7 @@ Este sitio web fue desarrollado en 2021 como entrega final del bootcamp virtual 
 - HTML5
 - CSS3
 - Visual Studio Code
+- freeCodeCamp
 
 # URL
 https://kareng19.github.io/pintores/
